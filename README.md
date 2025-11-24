@@ -43,7 +43,7 @@ My goal is to make advanced AI simple, accessible, and useful for every business
 ---
 
 ## 📫 Contact Me
-- LinkedIn: *linkedin.com/in/naresh-kumar-13389b231*  
+- LinkedIn: *[linkedin.com/in/naresh-kumar-13389b231](https://www.linkedin.com/in/naresh-kumar-13389b231/)*  
 - Website: *https://nexaaisolution.com/*  
 - Email: *nexaaisolution@gmail.com*
 
