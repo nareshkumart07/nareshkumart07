@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Naresh Kumar
-**AI/ML Engineer | Automation Specialist | Founder of Nexa AI Solution**
+**AI/ML Engineer at Fudode | Automation Specialist | Founder of Nexa AI Solution**
 
 I build real-world AI systems that automate business workflows, enhance customer experience, and solve practical problems using Artificial Intelligence and Machine Learning.
 
