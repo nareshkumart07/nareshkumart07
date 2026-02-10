@@ -108,7 +108,7 @@ HTML, CSS, JavaScript
 ## 🎓 Certifications & Achievements
 
 * AI/ML Certification – **IIT Ropar**
-* Minor in Artificial Intelligence – IIT Ropar
+* Major in Artificial Intelligence – IIT Ropar
 * Hackathon recognition for AI-based solutions
 
 ---
