@@ -83,5 +83,4 @@ Digital Transformation: Professional web presence for local businesses and start
 
 <div align="center">
 <p><em>🌟 Engineering the future of business through intelligent automation.</em></p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dnaresh-kumar-13389b231%26color%3Dblueviolet" alt="Profile Views" />
 </div>
