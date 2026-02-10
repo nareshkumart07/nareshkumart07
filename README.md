@@ -1,86 +1,130 @@
+# Hi, I'm Naresh Kumar 👋
+
+**AI Engineer @ Fudode | Founder @ Nexa AI Solution | AI Automation & RAG Specialist**
+
+---
+
+## 🚀 About Me
+
+I am an AI Engineer focused on building **production-grade intelligent systems** that solve real-world business problems. My work combines **Machine Learning, Deep Learning, NLP, and Large Language Models (LLMs)** to design scalable solutions that automate workflows, improve decision-making, and drive business growth.
+
+I specialize in **AI Agents, Retrieval-Augmented Generation (RAG), and end-to-end business automation**, helping companies reduce manual work and scale efficiently.
+
+* 🔭 Currently working as **AI Engineer at Fudode**
+* 🚀 Founder of **Nexa AI Solution**
+* 🧠 Core Focus: AI Agents, RAG Systems, and Workflow Automation
+* 🎯 Building scalable AI products for startups and enterprises
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: [https://linkedin.com/in/naresh-kumar-13389b231/](https://linkedin.com/in/naresh-kumar-13389b231/)
+* Website: [https://nexaaisolution.com/](https://nexaaisolution.com/)
+* Email: [nexaaisolution@gmail.com](mailto:nexaaisolution@gmail.com)
+
+---
+
+## 💼 Professional Experience
+
+### AI Engineer | Fudode
+
+* Developed **Rider Assignment & Intelligent Dispatch System** for delivery optimization
+* Designed and deployed **scalable FastAPI-based AI services**
+* Built internal **automation tools** to improve operational efficiency
+* Implemented **NLP pipelines** for structured and unstructured data processing
+* Managed **model deployment and production workflows** on cloud infrastructure
+
+### Founder | Nexa AI Solution
+
+Helping startups and local businesses adopt AI for growth and automation.
+
+**Key Solutions:**
+
+* Custom AI Agents for business operations
+* Enterprise **RAG-based knowledge assistants** (private data chatbots)
+* WhatsApp & Instagram **lead automation and CRM workflows**
+* High-performance, **SEO-optimized business websites**
+* End-to-end digital transformation for startups and SMEs
+
+---
+
+## 🧠 Core Expertise
+
+* Machine Learning & Deep Learning
+* Natural Language Processing (NLP)
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agent Development
+* Business Process Automation
+* Data Analysis & Predictive Modeling
+
+---
+
+## 🛠️ Technical Stack
+
+**Languages & Libraries**
+Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
+
+**LLM & AI Frameworks**
+LangChain, FAISS, Vector Databases, RAG Architectures
+
+**Backend & APIs**
+FastAPI, REST APIs, Webhooks, Automation Services
+
+**Databases**
+SQL, NoSQL, Vector Databases
+
+**Cloud & Deployment**
+Docker, DigitalOcean, Cloud Servers, Model Deployment Pipelines
+
+**Frontend**
+HTML, CSS, JavaScript
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Document Chatbot (RAG + LLM)
+
+* Built using LangChain + FAISS
+* Enables intelligent querying over private documents
+
+### 🔹 Stock Price Prediction System
+
+* LSTM-based multi-feature time-series forecasting
+* Predicts Open, Close, High, Low, and Volume
+
+### 🔹 AI Market Trend & Dynamic Pricing System
+
+* Time-series forecasting with interactive business dashboards
+
+### 🔹 Business Automation Bots
+
+* WhatsApp and web-based lead capture and automated response systems
+
+---
+
+## 🎓 Certifications & Achievements
+
+* AI/ML Certification – **IIT Ropar**
+* Minor in Artificial Intelligence – IIT Ropar
+* Hackathon recognition for AI-based solutions
+
+---
+
+## 📈 Solutions I Build
+
+* AI Assistants for Web, WhatsApp, and Social Media
+* Enterprise Knowledge Chatbots (Private Data RAG)
+* Workflow Automation to reduce operational costs
+* AI-powered analytics and forecasting systems
+* Custom AI SaaS tools for startups and growing businesses
+
+---
+
 <div align="center">
-<h1>Hi, I'm Naresh Kumar 👋</h1>
-<p><strong>AI Engineer @ Fudode | Founder @ Nexa AI Solution | Automation Specialist</strong></p>
 
-<p>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/naresh-kumar-13389b231/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="https://nexaaisolution.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-3b82f6%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website"></a>
-<a href="mailto:nexaaisolution@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
-</p>
-</div>
+### 🌟 Engineering intelligent systems that turn business problems into automated solutions
 
-🚀 Professional Profile
-
-I am a results-driven AI/ML Engineer specializing in the development and deployment of production-grade intelligent systems. I bridge the gap between complex AI research and practical business applications by engineering custom automation and RAG-based architectures.
-
-👨‍💻 Currently: AI Engineer at Fudode.
-
-💡 Entrepreneurship: Founder of Nexa AI Solution.
-
-🛠️ Core Focus: Custom AI Agents, RAG Pipelines, and End-to-End Business Automation.
-
-💼 Professional Experience
-
-🔹 AI Engineer | Fudode
-
-Leading enterprise-level AI transformation and automation.
-
-Architecting scalable AI/ML model deployment pipelines.
-
-Developing custom internal tools to optimize business operations and workflow efficiency.
-
-Implementing advanced NLP solutions for complex data processing.
-
-🔹 Founder | Nexa AI Solution
-
-Empowering startups and local businesses with cutting-edge technology.
-
-Custom Intelligent Systems: Engineering bespoke AI agents and RAG systems tailored for startup scalability.
-
-Web Development: Building high-performance, SEO-optimized digital platforms for local businesses.
-
-Business Automation: Streamlining lead management and CRM workflows via WhatsApp and Instagram integration.
-
-🧰 Technical Ecosystem
-
-Category
-
-Tech Stack
-
-AI & LLMs
-
-
-
-Backend & APIs
-
-
-
-Databases
-
-
-
-Cloud & DevOps
-
-
-
-Deployment
-
-
-
-Frontend
-
-
-
-📈 Solutions for Growth
-
-Intelligent Assistants: High-conversion bots for Web, WhatsApp, and Social Media.
-
-Enterprise RAG: Knowledge-aware chat systems built on your private documentation.
-
-Workflow Optimization: Automating repetitive business logic to maximize ROI.
-
-Digital Transformation: Professional web presence for local businesses and startups.
-
-<div align="center">
-<p><em>🌟 Engineering the future of business through intelligent automation.</em></p>
 </div>
