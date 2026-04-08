@@ -35,10 +35,6 @@ I specialize in AI Agents, Retrieval-Augmented Generation (RAG), and end-to-end 
 <details open>
 <summary><b>Languages & Core Libraries</b></summary>
 
-
-
-
-
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
@@ -49,10 +45,6 @@ I specialize in AI Agents, Retrieval-Augmented Generation (RAG), and end-to-end 
 <details open>
 <summary><b>AI, Machine Learning & LLMs</b></summary>
 
-
-
-
-
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dfor-the-badge%26logo%3Dpytorch%26logoColor%3Dwhite" alt="PyTorch">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-121212%3Fstyle%3Dfor-the-badge%26logo%3Dchainlink%26logoColor%3Dwhite" alt="LangChain">
@@ -62,10 +54,6 @@ I specialize in AI Agents, Retrieval-Augmented Generation (RAG), and end-to-end 
 
 <details open>
 <summary><b>Backend, Databases & Cloud Deployments</b></summary>
-
-
-
-
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite" alt="FastAPI">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL">
@@ -144,53 +132,28 @@ Cross-platform (WhatsApp and web-based) lead capture and automated response syst
 <td>
 ✔️ Machine Learning & Deep Learning
 
-
-
-
 ✔️ Natural Language Processing (NLP)
-
-
-
 
 ✔️ Large Language Models (LLMs)
 
-
-
-
 ✔️ Retrieval-Augmented Generation (RAG)
-
-
-
 
 ✔️ AI Agent Development
 
-
-
-
 ✔️ Data Analysis & Predictive Modeling
+
 </td>
 <td>
 🚀 AI Assistants for Web, WhatsApp & Social Media
 
-
-
-
 🚀 Enterprise Knowledge Chatbots (Private Data RAG)
-
-
-
 
 🚀 Workflow Automation to reduce operational costs
 
-
-
-
 🚀 AI-powered analytics and forecasting systems
 
-
-
-
 🚀 Custom AI SaaS tools for startups and SMEs
+
 </td>
 </tr>
 </table>
