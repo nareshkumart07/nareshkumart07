@@ -1,18 +1,16 @@
 <div align="center">
 
-<h1>Hi there, I'm Naresh Kumar <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hi there, I'm Naresh Kumar 👋</h1>
 
-<a href="https://linkedin.com/in/naresh-kumar-13389b231/">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D22%26pause%3D1000%26color%3D2E86C1%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DAI%2BEngineer%2B%2540%2BFudode%3BFounder%2B%2540%2BNexa%2BAI%2BSolution%3BAI%2BAutomation%2B%2526%2BRAG%2BSpecialist" alt="Typing SVG" />
-</a>
+<h3><b>AI Engineer @ Fudode | Founder @ Nexa AI Solution | AI Automation & RAG Specialist</b></h3>
 
 <p><em>Engineering intelligent systems that turn business problems into automated solutions</em></p>
 
-<!-- Social Badges -->
+<!-- Social Links -->
 
-<a href="https://linkedin.com/in/naresh-kumar-13389b231/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="https://nexaaisolution.com/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-28B463%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website"></a>
-<a href="mailto:nexaaisolution@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
+<a href="https://linkedin.com/in/naresh-kumar-13389b231/"><b>[ LinkedIn ]</b></a> |
+<a href="https://nexaaisolution.com/"><b>[ Website ]</b></a> |
+<a href="mailto:nexaaisolution@gmail.com"><b>[ Email ]</b></a>
 
 </div>
 
@@ -35,30 +33,37 @@ I specialize in AI Agents, Retrieval-Augmented Generation (RAG), and end-to-end 
 <details open>
 <summary><b>Languages & Core Libraries</b></summary>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-Learn">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
+
+
+
+
+<blockquote>
+<b>Python</b> • <b>NumPy</b> • <b>Pandas</b> • <b>Scikit-Learn</b> • <b>JavaScript</b>
+</blockquote>
 </details>
 
 <details open>
 <summary><b>AI, Machine Learning & LLMs</b></summary>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dfor-the-badge%26logo%3Dpytorch%26logoColor%3Dwhite" alt="PyTorch">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-121212%3Fstyle%3Dfor-the-badge%26logo%3Dchainlink%26logoColor%3Dwhite" alt="LangChain">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FAISS-000000%3Fstyle%3Dfor-the-badge%26logo%3Dmeta%26logoColor%3Dwhite" alt="FAISS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/RAG_Architectures-4B0082%3Fstyle%3Dfor-the-badge%26logo%3Dprobot%26logoColor%3Dwhite" alt="RAG">
+
+
+
+
+<blockquote>
+<b>TensorFlow</b> • <b>PyTorch</b> • <b>LangChain</b> • <b>FAISS</b> • <b>RAG Architectures</b>
+</blockquote>
 </details>
 
 <details open>
 <summary><b>Backend, Databases & Cloud Deployments</b></summary>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite" alt="FastAPI">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/DigitalOcean-0080FF%3Fstyle%3Dfor-the-badge%26logo%3Ddigitalocean%26logoColor%3Dwhite" alt="Digital Ocean">
+
+
+
+
+<blockquote>
+<b>FastAPI</b> • <b>SQL</b> • <b>Docker</b> • <b>DigitalOcean</b>
+</blockquote>
 </details>
 
 💼 Professional Experience
@@ -132,28 +137,71 @@ Cross-platform (WhatsApp and web-based) lead capture and automated response syst
 <td>
 ✔️ Machine Learning & Deep Learning
 
+
+
+
+
+
 ✔️ Natural Language Processing (NLP)
+
+
+
+
+
 
 ✔️ Large Language Models (LLMs)
 
+
+
+
+
+
 ✔️ Retrieval-Augmented Generation (RAG)
+
+
+
+
+
 
 ✔️ AI Agent Development
 
-✔️ Data Analysis & Predictive Modeling
 
+
+
+
+
+✔️ Data Analysis & Predictive Modeling
 </td>
 <td>
 🚀 AI Assistants for Web, WhatsApp & Social Media
 
+
+
+
+
+
 🚀 Enterprise Knowledge Chatbots (Private Data RAG)
+
+
+
+
+
 
 🚀 Workflow Automation to reduce operational costs
 
+
+
+
+
+
 🚀 AI-powered analytics and forecasting systems
 
-🚀 Custom AI SaaS tools for startups and SMEs
 
+
+
+
+
+🚀 Custom AI SaaS tools for startups and SMEs
 </td>
 </tr>
 </table>
@@ -166,7 +214,3 @@ Cross-platform (WhatsApp and web-based) lead capture and automated response syst
 🎓 Major in Artificial Intelligence – IIT Ropar
 
 🏆 Hackathon Recognition for building scalable AI-based solutions
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D2E86C1%26height%3D100%26section%3Dfooter" width="100%"/>
-</div>
